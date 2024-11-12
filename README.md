@@ -25,7 +25,7 @@ Este proyecto es un foro online desarrollado con **Spring Boot**, donde los usua
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/Abner-Hernandez/Foro-Hub---API
    ```
 2. Instala las dependencias:
    ```bash
